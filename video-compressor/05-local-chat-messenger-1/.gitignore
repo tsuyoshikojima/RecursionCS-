@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Editor / OS files
+.vscode/
+.DS_Store
+
+# Runtime files
+*.sock
+socket_file
