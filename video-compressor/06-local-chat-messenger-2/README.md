@@ -26,7 +26,7 @@
 
 #### 2.アドレスに紐付け
 
-`socket.bind(adress)`
+`socket.bind(address)`
 
 #### 3.サーバーを有効にし接続を待つ
 
